@@ -1,0 +1,10 @@
+{
+  "research_topic": "Test-Time Adaptation (TTA) method combining update gating and drift suppression for improved robustness on ImageNet-C / CIFAR-C.",
+  "queries": [
+    "test-time adaptation",
+    "update gating TTA",
+    "drift suppression adaptation",
+    "ImageNet-C robustness",
+    "CIFAR-C corruption resilience"
+  ]
+}
