@@ -6,5 +6,52 @@
     "drift suppression adaptation",
     "ImageNet-C robustness",
     "CIFAR-C corruption resilience"
+  ],
+  "research_study_list": [
+    {
+      "title": "Test-Time Training with Self-Supervision for Generalization under Distribution Shifts"
+    },
+    {
+      "title": "Robust Test-Time Adaptation in Dynamic Scenarios"
+    },
+    {
+      "title": "TTN: A Domain-Shift Aware Batch Normalization in Test-Time Adaptation"
+    },
+    {
+      "title": "Improved Test-Time Adaptation for Domain Generalization"
+    },
+    {
+      "title": "Improving the Gating Mechanism of Recurrent Neural Networks"
+    },
+    {
+      "title": "Active Test-Time Adaptation: Theoretical Analyses and An Algorithm"
+    },
+    {
+      "title": "An Adaptive Algorithm for Learning with Unknown Distribution Drift"
+    },
+    {
+      "title": "Non-Stationary Learning of Neural Networks with Automatic Soft Parameter Reset"
+    },
+    {
+      "title": "DriftSurf: Stable-State / Reactive-State Learning under Concept Drift"
+    },
+    {
+      "title": "ImageNet-E: Benchmarking Neural Network Robustness via Attribute Editing"
+    },
+    {
+      "title": "Measuring Robustness to Natural Distribution Shifts in Image Classification"
+    },
+    {
+      "title": "Vector Quantization With Self-Attention for Quality-Independent Representation Learning"
+    },
+    {
+      "title": "On Interaction Between Augmentations and Corruptions in Natural Corruption Robustness"
+    },
+    {
+      "title": "Improving robustness against common corruptions by covariate shift adaptation"
+    },
+    {
+      "title": "Vector Quantization With Self-Attention for Quality-Independent Representation Learning"
+    }
   ]
 }
